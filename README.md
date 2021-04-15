@@ -1,14 +1,20 @@
 # SHUFLIX-web-dev-assignment
-Website Development Assignment.
-  Joshua Walley
-  B8043090
+<b> Joshua Walley B8043090 </b>
+Web Development Events Listing Website (SHUFlix)
 
-Virtual Machine Username:
-URL of GitHub Repo: https://github.com/mr-jw/SHUFLIX-web-dev-assignment
+Virtual Machine username: <b> LabStudent-55-504266 </b> 
+VS Solution Name: <b> WebApplication </b> 
 
-Login credentials needed to access the CMS:
-Username - Josh
-Password - Password1!
+GitHub URL: https://github.com/mr-jw/SHUFLIX-web-dev-assignment
+YouTube link to Walkthrough Video: https://www.youtube.com/watch?v=kXooyXddDDA
+(Absolutely terrible at talking in videos sorry)
 
-Libraries/Frameworks used: 
+Login credentials to access the site CMS: 
+Username: <b> Josh </b>
+Password: <b> Password1! </b>
 
+Frameworks used: - 
+- <b> Microsoft.EntityFrameworkCore </b>
+- <b> Microsoft.AspNetCore.Identity.EntityFrameworkCore </b>
+- <b> Microsoft.EntityFrameworkCore.SqlServer </b>
+- <b> Microsoft.EntityFrameworkCore.tools </b>
