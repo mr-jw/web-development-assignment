@@ -7,7 +7,6 @@ VS Solution Name: <b> WebApplication </b>
 
 GitHub URL: https://github.com/mr-jw/SHUFLIX-web-dev-assignment
 YouTube link to Walkthrough Video: https://www.youtube.com/watch?v=kXooyXddDDA
-(Absolutely terrible at talking in videos sorry)
 
 Login credentials to access the site CMS: 
 Username: <b> Josh </b>
